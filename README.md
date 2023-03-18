@@ -7,8 +7,11 @@ A lista será impressa no terminal ordenada de A-Z com uma propriedade em cada l
 
 <h2 align="center"> Tecnologias utilizadas: </h2>
 <div align="center">
- <img src="https://github.com/bwks/vendor-icons-svg/blob/master/node-js-logo.svg" width="120" title="hover text">
+ <img src="https://github.com/bwks/vendor-icons-svg/blob/master/node-js-logo.svg" width="120" title="NodeJS">
+ <img src="https://github.com/chalk/chalk/blob/HEAD/media/logo.svg" width="120" title="Biblioteca Chalk">
  </div>
+ 
+ 
  
 <h2 align="center"> Instruções para executar o projeto: </h2>
 
