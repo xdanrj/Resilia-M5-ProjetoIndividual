@@ -30,5 +30,5 @@ $ npm install
 <h3 align="center"> 3. Execute o código. </h3>
 
 ```sh
-$ node app.js
+$ npm start
 ```
